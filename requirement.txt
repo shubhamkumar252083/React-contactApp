@@ -1,0 +1,4 @@
+
+1. npm install react-router-dom --save
+2. npm i  --save axios
+3. npm install uuidv4 --save
